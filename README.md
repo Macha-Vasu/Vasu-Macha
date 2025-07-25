@@ -4,7 +4,6 @@
 
 <p align="center">
 <img src="https://github.com/Macha-Vasu/Vasu-Macha/blob/main/Photo.JPG?raw=true" alt="Vasu Macha" style="border-radius: 60%; width: 150px; height: 150px;" />
-">
 </p>
 
 <em>
