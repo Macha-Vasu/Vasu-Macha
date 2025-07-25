@@ -185,7 +185,7 @@ With over **6.5 years of experience** in building production‐grade application
       <img src="https://github-readme-stats.vercel.app/api?username=Vasu-Macha&show_icons=true&theme=github_dark" alt="Vasu-Macha GitHub Stats" />
     </td>
     <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Vasumacha&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
+      <img src="[https://github-readme-streak-stats.herokuapp.com?user=Vasumacha&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak](https://github.com/Macha-Vasu)" />
     </td>
     <td style="border: none; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasumacha&layout=compact&theme=dark" alt="Top Languages" />
