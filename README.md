@@ -182,7 +182,7 @@ With over **6.5 years of experience** in building production‐grade application
 <table>
   <tr>
     <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vasu-Macha&show_icons=true&theme=github_dark" alt="Vasu Macha GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Vasu-Macha&show_icons=true&theme=github_dark" alt="Vasu-Macha GitHub Stats" />
     </td>
     <td style="border: none; padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Vasumacha&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
