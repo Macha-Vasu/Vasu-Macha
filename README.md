@@ -10,14 +10,14 @@
 </p>
 
  <em>
-<h1 align="center">👋 Hi, I'm Madhukar Barad !</h1>
-<h2 align="center">👨🏻‍💻 Java Full Stack Developer | Cloud Enthusiast | Problem Solver</h2>
+<h1 align="center">👋 Hi, I'm Vasu Macha !</h1>
+<h2 align="center">👨🏻‍💻 Frond End Developer | Cloud Enthusiast | Problem Solver</h2>
 <h2 align="center">🙋🏻 Open to immediate opportunities</h2>
 <p align="center">
 </em> 
 <em>
 <h3 align="center"> • Passionate about building web apps </h3>
-<h4 align="center">• 6.9+ years of experience</h4>
+<h4 align="center">• 6.5 years of experience</h4>
 </em>
 </p>
 
@@ -29,10 +29,10 @@
 
 ## 🔭 About Me
 
-I’m `Madhukar Barad`, a software developer specializing in front‐end and full‐stack web technologies.  
-With over **6.9 years of experience** in building production‐grade applications, I’ve worked on React, Vue, Node.js, and Java/Spring Boot.
+I’m `Vasu Macha`, a software developer specializing in front‐end and full‐stack web technologies.  
+With over **6.5 years of experience** in building production‐grade applications, I’ve worked on React, Vue, and Node.js.
 
-🚀 Passionate Java Full Stack Developer with 6+ years of experience building scalable, high-performance web applications and APIs. Skilled in Java, Spring Boot, React, Node.js, and cloud platforms like AWS & Azure. I specialize in delivering end-to-end solutions that solve real-world problems and enhance user experience.
+🚀 Passionate Frontend Developer with 6+ years of experience building scalable, high-performance web applications. Skilled in React, JavaScript, TypeScript, and modern frontend technologies like Next.js and Node.js. I specialize in creating responsive, user-centric interfaces that deliver exceptional user experiences, solving real-world problems.
 
 - 🔧 Strong in microservices, CI/CD, RESTful APIs, and full-stack architecture
 - ☁️ Cloud-native development | DevOps practices | Scalable systems
@@ -60,10 +60,7 @@ With over **6.9 years of experience** in building production‐grade application
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
    
