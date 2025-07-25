@@ -3,7 +3,8 @@
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-<img src="https://github.com/Photo.JPG" alt="Profile Picture" style="border-radius: 60%; width: 150px; height: 150px;">
+<img src="<img src="https://github.com/Macha-Vasu.png" alt="Vasu Macha" style="border-radius: 60%; width: 150px; height: 150px;" />
+">
 </p>
 
 <em>
