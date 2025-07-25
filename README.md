@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-<img src="<img src="https://![My Photo](Photo.JPG) alt="Vasu Macha" style="border-radius: 60%; width: 150px; height: 150px;" />
+<img src="https://github.com/Macha-Vasu/Vasu-Macha/blob/main/Photo.JPG?raw=true" alt="Vasu Macha" style="border-radius: 60%; width: 150px; height: 150px;" />
 ">
 </p>
 
