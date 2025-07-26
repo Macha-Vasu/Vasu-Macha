@@ -27,15 +27,14 @@
 ## 🔭 About Me
 
 I’m `Vasu Macha`, a software developer specializing in front‐end and full‐stack web technologies.  
-With over **6.5 years of experience** in building production‐grade applications, I’ve worked on React, Vue, Node.js, and Java/Spring Boot.
-
+With over **6.5 years of experience** in building production‐grade applications, I’ve worked on React, Vue, and Node.js.
 🚀 Passionate Frontend Developer with 6+ years of experience building scalable, high-performance web applications. Skilled in React, JavaScript, TypeScript, and modern frontend technologies like Next.js and Node.js. I specialize in creating responsive, user-centric interfaces that deliver exceptional user experiences, solving real-world problems.
 
 - 🔧 Strong in microservices, CI/CD, RESTful APIs, and full-stack architecture  
 - ☁️ Cloud-native development | DevOps practices | Scalable systems  
 - 🌱 I’m learning advanced **GraphQL** patterns and **WebAssembly**  
 - 👯 I’m looking to collaborate on open source projects focused on **JavaScript tooling**  
-- 💬 Ask me about **React**, **TypeScript**, **Spring Boot**, or **AWS**  
+- 💬 Ask me about **React**, **TypeScript**, or **AWS**  
 - ⚡ Fun fact: I love creating pure‐CSS “art” in my free time!
 
 💡 Always learning, building, and pushing boundaries in tech.
