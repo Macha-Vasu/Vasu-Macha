@@ -8,7 +8,7 @@
 
 <em>
 <h1 align="center">👋 Hi, I'm Vasu Macha!</h1>
-<h2 align="center">👨🏻‍💻 Front End Developer | Cloud Enthusiast | Problem Solver</h2> 
+<h2 align="center">👨🏻‍💻 Front End Developer | Cloud Enthusiast | Problem Solver</h2>
 <h2 align="center">🙋🏻 Open to immediate opportunities</h2>
 <p align="center">
 </em> 
