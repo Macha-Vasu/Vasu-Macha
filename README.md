@@ -160,7 +160,7 @@ With over **6.5 years of experience** in building production‐grade application
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Macha-Vasu/Vasu-Macha/main/snake.svg" width="600" alt="snake" />
+  <img src="./snake.svg" width="600" alt="GitHub Contribution Snake" />
 </p>
 ---
 
